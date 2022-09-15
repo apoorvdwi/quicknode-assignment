@@ -1,6 +1,6 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
-import { Container, Flex } from '@chakra-ui/react';
+import { Flex } from '@chakra-ui/react';
 import ConnectMetamask from '../components/connectMetamask';
 import { useAddress } from '@thirdweb-dev/react';
 import TrendingCollections from '../components/trendingCollections';
