@@ -106,6 +106,7 @@
 
   Finally architecture would look something like this:
   ```
+  ![image](https://user-images.githubusercontent.com/56197821/190384580-8bab2823-24ce-45b8-bc08-97864983683e.png)
 
   ```
   Q4. Provides real-time updates to clients as new data is available
