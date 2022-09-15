@@ -121,3 +121,11 @@ Going in to as much detail as you want, describe how you would build a system th
   The best optimization is Server Sent Events. We can use SSE to update the clients, the benefit of that over socket is that it is still a HTTP connection and it is not upgraded to a TCP connection so Server Sent Events are a great way to update clients with new data and SSE can be scaled pretty easily.
 
   <hr />
+  
+  ## Screenshots
+  
+  ![image](https://user-images.githubusercontent.com/56197821/190388104-c1179be5-32d5-4d22-8cdd-97c2e5fba879.png)
+  
+  ![image](https://user-images.githubusercontent.com/56197821/190388319-f17e4acb-8322-45f8-b459-30d52293c945.png)
+  
+  ![image](https://user-images.githubusercontent.com/56197821/190387922-0a857099-d07a-4972-8a1c-3b8d16c456a7.png)
